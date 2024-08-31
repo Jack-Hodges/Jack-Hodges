@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @Jack-Hodges
 
-I am a student studying Bachelor of Computing & Bachelor of Medical Science! (strange combination, I know, but I hope to do something along the lines of biotech, or I might just choose one!)
-
+I am a student studying Bachelor of Computing & Bachelor of Medical Science at The Australian National University!
 I'm currently working on a few projects, let me tell you about three of them!
 
 1. SaveEasy 💰 is an app created to help motivate kids to save money! Parents can monitor their child's saving and post jobs for them to earn money! SaveEasy is designed to make saving money feel like a game, and let kids be in control of their savings, allowing them to better visualise their progress.
