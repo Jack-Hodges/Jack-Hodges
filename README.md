@@ -5,7 +5,7 @@ I'm currently working on a few projects, let me tell you about three of them!
 
 1. SaveEasy 💰 is an app created to help motivate kids to save money! Parents can monitor their child's saving and post jobs for them to earn money! SaveEasy is designed to make saving money feel like a game, and let kids be in control of their savings, allowing them to better visualise their progress.
 
-2. Cardify 📚 is a flashcard app, designed around PencilKit! I am creating this one primarily for my own use at university. It is built to take full advantage of PencilKit and the iPad screen, to allow the user to draw front and back of their flashcards.
+2. Cardify 📚 is a flashcard app! I am creating this one primarily for my own use at university. It is built with a very fun user interface to motivate me, and other students, to study more.
 
 3. CashFlow 💸 is a checkout app. Created to make the POS sales system as easy as possible, while working on iPad and iPhone.
 
